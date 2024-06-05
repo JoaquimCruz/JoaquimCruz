@@ -6,8 +6,7 @@
 ![JoaquimCruz GitHub stats](https://github-readme-stats.vercel.app/api?username=JoaquimCruz&show_icons=true&theme=dracula)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoaquimCruz&layout=compact)
 
-Meu nome é Joaquim Cézar Santana da Cruz, sou aluno do terceiro período de Engenharia da Computação, pelo CEFET-MG. Sou apaixonado por programação e estudo para ser engenheiro de software. Ademais, amo jogar um futebol e um CS-GO no meu tempo livre!
-
+My name is Joaquim Cézar Santana da Cruz, I'm a third semester Computer Enginnering student at CEFET-MG. I am passionate about programming and I'm studying to be a Software Engineer. Furthermore, I love playing football and CS-GO in my free time!
 ### Technologies that I use
 
 <div style="display: inline_block"><br/>
