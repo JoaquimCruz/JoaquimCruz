@@ -1,6 +1,6 @@
 ### Hi! My name is Joaquim
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/joaquim_xx/)  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](joaquimcezar930@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/joaquim_xx/)  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/joaquimcezar930@gmail.com)
 
 
 ![JoaquimCruz GitHub stats](https://github-readme-stats.vercel.app/api?username=JoaquimCruz&show_icons=true&theme=dracula)
