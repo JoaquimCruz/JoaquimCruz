@@ -8,7 +8,7 @@
 
 Meu nome é Joaquim Cézar Santana da Cruz, sou aluno do terceiro período de Engenharia da Computação, pelo CEFET-MG. Sou apaixonado por programação e estudo para ser engenheiro de software. Ademais, amo jogar um futebol e um CS-GO no meu tempo livre!
 
-### Technologies that I use
+### Most used Technologies 
 
 <div style="display: inline_block"><br/>
     <img align= "center" alt="html5" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
