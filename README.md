@@ -6,6 +6,9 @@
 
 
 ![JoaquimCruz GitHub stats](https://github-readme-stats.vercel.app/api?username=JoaquimCruz&show_icons=true&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoaquimCruz&layout=compact&theme=tokyonight&hide=html)
+
+
 
 
 Meu nome é Joaquim Cézar Santana da Cruz e estou atualmente no quinto período de Engenharia de Computação no CEFET-MG. Sou apaixonado por programação e venho me preparando para seguir carreira como Engenheiro de Software. No momento, estou trabalhando sobretudo com Java e Spring Boot.
