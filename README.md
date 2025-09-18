@@ -10,7 +10,7 @@
 
 
 
-Meu nome é Joaquim Cézar Santana da Cruz e estou atualmente no quinto período de Engenharia de Computação no CEFET-MG. Sou apaixonado por programação e venho me preparando para seguir carreira como Engenheiro de Software. No momento, estou trabalhando sobretudo com Java e Spring Boot.
+Meu nome é Joaquim Cézar Santana da Cruz e estou atualmente no sexto período de Engenharia de Computação no CEFET-MG. Sou apaixonado por programação e venho me preparando para seguir carreira como Engenheiro de Software. No momento, estou trabalhando sobretudo com Java e Spring Boot.
 ### Technologies that I use
 
 <div style="display: inline_block"><br/>
